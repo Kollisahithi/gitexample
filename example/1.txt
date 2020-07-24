@@ -1,1 +1,2 @@
 i this my new tuturial in git
+chnged in matser adding file
